@@ -8,3 +8,5 @@ def test_add():
 
 def test_substract():
     assert cal.add(3,1) ==2
+    assert cal.add(2,1) == 1
+
