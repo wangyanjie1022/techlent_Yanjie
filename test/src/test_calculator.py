@@ -8,5 +8,6 @@ def test_add():
 
 def test_substract():
     assert cal.subtract(5,1) ==4
+    assert cal.subtract(5,1) == 4
     assert cal.subtract(2,1) == 1
 
